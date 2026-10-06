@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 1,
+        "description": "Minecraft, but a lot more Halal!",
+        "supported_formats":
+        {
+         "min_inclusive": 1,
+         "max_inclusive": 13
+        }
+    }
+}
