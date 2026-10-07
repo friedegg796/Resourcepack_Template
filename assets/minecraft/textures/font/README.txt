@@ -1,0 +1,1 @@
+This is an example of a texture file, being the texture that specific fonts in Minecraft can have

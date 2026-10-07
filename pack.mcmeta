@@ -1,11 +1,11 @@
 {
     "pack": {
         "pack_format": 1,
-        "description": "Template",
+        "description": "Resourcepack template, more information can be found at https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack",
         "supported_formats":
         {
          "min_inclusive": 1,
-         "max_inclusive": 13
+         "max_inclusive": 999
         }
     }
 }

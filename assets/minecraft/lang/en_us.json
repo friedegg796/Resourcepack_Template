@@ -1,0 +1,6 @@
+{
+
+  "menu.multiplayer": "Resourcepack Template is installed",
+  "menu.singleplayer": "You replace the original name with something else, and minecraft defaults with everything else",
+  "menu.paused": "don't add a ',' for the last item in your language json file"
+  }
